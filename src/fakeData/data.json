@@ -1,0 +1,45 @@
+   [
+    {
+        "key": "B002RL8IYK",
+        "name": "Dental Services",
+        "star": 5,
+        "details": "Complete exams, x-rays, and dental cleanings, Fillings, root canals, and extractions, Cosmetic dentistry,Implants - placement and restoration. Crowns, full and partial dentures. Implants, Orthodontics.",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-1.jpg"
+    },
+    {
+        "key": "B01LZ2WZGH",
+        "name": "Bariatric Surgery",
+        "star": 5,
+        "details": "There are currently three primary weight loss (or bariatric) surgeries being performed across the United States. They are Roux-en-Y gastric bypass, adjustable gastric banding and sleeve gastrectomy.",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-2.jpg"
+    },
+    {
+        "key": "B01K1IO3QW",
+        "name": "heart transplant survival rate is greater than 85 percent after one year and 69 percent after 5 years for adults, which is excellent when compared to the natural course of end-stage heart failure.",
+        "star": 5,
+        "details": "The disease results from the buildup of fatty deposits in the arteries, which reduces blood flow and can lead to heart attack",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-3.jpg"
+    },
+    {
+        "key": "B01LD4MGY4",
+        "name": "Chemical Research",
+        "star": 5,
+        "details": "identification of novel toxic agents and reactive intermediates, development of new methods to detect chemical-induced modification of biological macromolecules",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-4.jpg"
+    },
+    {
+        "key": "B01M18UZF5",
+        "name": "Anatomical Pathology",
+        "star": 5,
+        "details": "Anatomic pathologists usually work in hospitals, investigating the effects of disease on the human body via autopsies and microscopic examination of tissues, cells, and other specimens.",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-5.jpg"
+    },
+    {
+        "key": "B01DBGVB7K",
+        "name": "Heart Disease",
+        "star": 5,
+        "details": "Coronary artery disease is the most common form of heart disease .The disease results from the buildup of fatty deposits in the arteries, which reduces blood flow and can lead to heart attack.",
+        "img": "https://templates.envytheme.com/mediva/default/assets/img/services/services-6.jpg"
+    }   
+]
+

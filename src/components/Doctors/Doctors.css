@@ -1,0 +1,14 @@
+.doctor-container{
+    width:90%;
+    margin:0 auto
+}
+.doctor{
+border: 2px solid salmon;
+border-radius: 80px;
+margin: 50px;
+padding: 50px;
+}
+
+div img{
+    border-radius: 10px;
+}
